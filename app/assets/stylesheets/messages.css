@@ -126,7 +126,7 @@
   display: flex;
 }
 
-.form-text{
+.form-message{
   border: none;
   height: 50px;
   width: 100%;
@@ -147,7 +147,7 @@
   display: none;
 }
 
-.form-button{
+.form-submit{
   border: none;
   background-color: #38AEF0;
   font-size: 16px;
